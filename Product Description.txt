@@ -1,0 +1,32 @@
+Product Description
+
+The task:
+
+Build an event feed. A travel agent planning a trip wants to know what is on in a place while their traveller is there: a festival, a concert,
+a big match, a market. Build a first version of a feed that collects those events for Hermanus, South Africa, so that the people and
+the agents planning trips can use it.
+Some context on how it gets used. A luxury trip is usually booked 6 to 18 months before it starts. Closer to the date the trip is refined
+and activities are booked, so a planner looks at the same place more than once, months apart. Travellers also vary widely in age and
+interests, so what is worth knowing about differs from one trip to the next. What else the feed needs to be is for you to decide.
+
+What counts as an event:
+1.Something to go to: J. Cole in Johannesburg on 12 December 2026, Lions v Munster at Ellis Park on 17 April 2027, the Hermanus
+2.Country Market on a Saturday.
+3.Something that runs: a theatre show with 81 dates, an exhibition that is open for a year.
+4.Something months away: the FynArts Festival in Hermanus in June 2027.
+5. A season, which has months and no date: southern right whales off Hermanus, June to November.
+6. ETC.
+
+What we want in a solution:
+
+1. Data model design. Work out the problem, then how to model the domain.
+2. API design. Expose that model as an agent-friendly set of APIs.
+3. Agents working through those APIs. Get a normal Claude or Codex to use the API and do the data processing.
+4. Decide the tech stack from the shape of the problem and what you know.
+5. Tracer bullets and checks in the right places come in.
+6. Build, test, iterate.
+
+
+
+
+

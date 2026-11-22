@@ -1,0 +1,319 @@
+Our mission
+
+Magic Safari is building the digital backbone of Africa's safari economy.
+
+The industry is fragmented and slow. Guest expectations are shaped online, but the infrastructure behind it all is stuck in 2006.
+Inefficiency suppresses demand
+
+International travel agents typically sell all kinds of trips. A travel agent can book a ski trip in Italy or a Caribbean resort in minutes. But booking a safari means emails, manual quotes, and hoping the lodge responds before the client loses interest.
+
+The problem is that agents sell what's easy to sell. When Africa is harder to book, they steer clients elsewhere - not because the experience is worse, but because the infrastructure makes it harder to close.
+
+Magic Safari builds infrastructure that makes it easier to sell safaris and in the process increases demand for the African continent.
+Why this matters beyond travel
+
+A luxury safari lodge might have a staff-to-guest ratio of 4:1. Guides, trackers, butlers, cleaners, cooks, pastry chefs, maintenance teams. A small lodge with 8 beds might employ more than 60 people from the local community! And that's before you count drivers and pilots for transfers, companies delivering fresh food in the bush, road maintenance teams, anti-poaching units, and park staff.
+
+The great thing is these jobs are also impervious to AI. People come for the realness of the experience and the human connection. As the world goes digital, people will pay more for something you can't replicate on a screen.
+
+Our story
+
+Magic Safari was founded in August 2025 by Philip Joubert, David Ryan, Malan Joubert, Louw Hopley and Chris Lemmer.
+
+The majority of the founders were outsiders to the safari industry, so it’s no surprise that we were naive about a lot of things. However, it also benefited us in many ways. We weren't weighed down by how things have always been done in the industry and we could look at problems from first principles.
+
+Our team is intentionally small and mostly in South Africa with a lot to prove.
+
+How we make money
+
+We make money when trips get booked.
+
+We provide software and services to travel agents, tour operators and lodges. As far as possible, we don’t charge upfront fees or subscriptions. Instead, we earn when a traveler actually books a trip.
+
+By tying our revenue to bookings, we've aligned ourselves with the travel agents and lodges we work with. If they're not selling trips, we're not making money.
+
+So we care about the operational reality of the business, not just the software. We're not in a software ivory tower - we get our hands dirty and deal with the messy reality of travel operations.
+
+How we spend money
+
+We're building infrastructure for the safari industry. Every cent matters.
+
+We haven't taken on venture capital and we don't plan to. That means we fund everything ourselves, which means we think hard about every dollar we spend.
+Frugal by design
+
+We're building infrastructure, and in infrastructure every cent matters. We operate like a low-cost airline. As Bezos put it: "Your margin is my opportunity."
+Where we do spend
+
+We spend on AI and compute. These tools make a small team perform like a much larger one, and right now speed matters more than perfect efficiency. We'll sometimes do things that are inefficient in order to move fast. But over time, we push to make even that spending more efficient.
+
+We also spend on travel. Our customers include lodges throughout Africa, and we need to go see them. You can't build for an industry from behind a screen.
+
+And we have cool swag. One of the advantages of a small team is you can splurge on a couple of things.
+
+Culture & values
+
+For smart, ambitious folks who want to be part of a world-class team, Magic Safari is an awesome place to be.
+
+But just like the Navy Seals or The Royal Ballet, we're not a fit for everyone. We have an opinionated culture, expect a lot from each other and put in the work.
+Culture is people
+
+If you made a list of the factors that have the biggest influence on company culture you'd end up with the following ranked list:
+
+    Who you hire, promote and fire
+    Founders & leadership
+    Incentives & standards.
+    Explicated values
+
+Who you hire, promote and fire determines 70% of the culture. All the typical culture work that companies do like explicating values has a comparatively small impact compared to hiring, promoting and firing.
+
+This is partly because people decisions are high signal to the team about what's important. It's also partly because there's a limit on how much you can shape how people act. That's why we take building our team so seriously.
+AI native
+
+We want to be operating at the edge of AI.
+
+We embedded AI into every process - from writing, coding, and company operations. For repeat tasks we invest the time to make the next similar task easier.
+
+AI amplifies generalists, so broad curiosity and taste are more important than narrow expertise. Consequently, we have a preference for generalists with strong interests in multiple fields (engineering, writing, design, etc.).
+Frugal
+
+We haven't taken on any VC funding and we don't plan to do so. Instead, we're operating as a profitable business from day one.
+
+To stay profitable we're frugal and keep the team small. We don't pretend that this isn't sometimes frustrating, but it drives us to seek more creative solutions to problems.
+
+To align everyone, the entire team is included in the profit share.
+Focused on the work
+
+Magic Safari doesn't get involved in political causes and broader societal issues that are unrelated to our core mission.
+
+It has become common for startups to engage in all sorts of social activism, even those unrelated to what the company does. We decided to take a different approach.
+
+We believe impact only comes with focus. While these efforts are usually well intentioned, they have the potential to destroy a lot of value at most companies, both by being a distraction and by creating internal division.
+
+It is through doing great work and modernizing the safari industry that we'll make the biggest difference - positively impacting the lives of millions of fellow hardworking Africans and advance conservation across the continent.
+Aligned
+
+"Everyone at your company should be different in the same way - a tribe of like-minded people fiercely devoted to the company's mission." - Peter Thiel, Founders Fund
+
+We want to hire people with common values and goals, who are all pulling in the same direction.
+
+One way of thinking about this is to imagine people as vectors. When everyone is aligned our efforts are perfectly contributing to our progress. But some folks aren't aligned it impairs how fast we can go because their ideas and efforts are pulling us in the wrong direction.
+Championship team
+
+We aim only to have high performers on the team: people who are great at what they do, and even better at working together.
+
+    We want to be the place where high performers can do their life's work.
+    We have high expectations for performance and delivering results.
+    We have an intense work culture, and regularly get pushed out of our comfort zones.
+    But we also take rest seriously, to improve productivity over the long term.
+
+Magic Safari should continually earn employees' commitment and, likewise, expects employees to earn their seat at the company.
+High agency
+
+"I don't want to be a product of my environment; I want my environment to be a product of me." - Frank Costello
+
+It's unbelievable that startups ever become giant companies. Compared to incumbents, startups have fewer resources, less capital, higher uncertainty and a complete lack of credibility. To overcome all those challenges, startups needed a few miracles. We're looking for the kind of people who can make miracles happen.
+
+We have a preference for people who see the glass half full - but what we really want is people who are taps. Because it doesn't matter how full the glass is if you can fill it up.
+
+    We set a clear direction and make plans - but we don't spell out everything.
+    We expect everyone on the team to make good decisions for the business and we provide the team with the information and freedom to be able to make those decisions.
+    If a wall is blocking you from making progress, we expect you to figure out how to get through it. It's up to you to determine if it's best to go over it, under it or become friends with it.
+
+High velocity
+
+Speed is our ultimate weapon. All else being equal, the fastest company in any market wins.
+
+When someone says next week, ask why not tomorrow. When someone says tomorrow, ask why not today. When someone says today, ask why not right now.
+
+    Bias to action: Getting things done is a habit that compounds.
+    Make fast decisions: Most decisions are reversible two-way doors. Just do something.
+    Delete delete delete: The fastest way to get something done is to remove the need to do it.
+    Unblock the bottleneck: Focus on critical path.
+    Understand before you accelerate: Speed compounds in the right direction and destroys value in the wrong one.
+
+Team philosophy
+
+"The team you build is the company you build, not the plan you make" - Vinod Khosla
+
+At a startup you can be tricked into thinking you're building a tech company, so you focus a lot on product. But ultimately, you're really building a team to build the product and then the company.
+
+The first 10 hires we make will be the most important hires we'll ever make, because those first 10 employees become the first 100 employees.
+
+Initial employees will interview new candidates and they'll hire people in their own image. Similarly, people who want to work with us will judge our company based on who's interviewing them - cementing our culture.
+Talent density is the best pitch
+
+The best talent wants to work with the best talent.
+
+It's exceptionally rare to find a team that is insanely talent dense. If we're willing to go through the pain of building a ridiculously good early team then we make it easier to build a great team later.
+
+This approach works for many reasons:
+
+    Social proof: If great people are joining, it must be great.
+    Referral network: Great people know other great people.
+    Flywheel: A+ people join to work with other A+ people
+
+The right folks are 10X better
+
+Almost all companies underestimate the value of top talent, which skews their approach to hiring, promotions and compensation.
+
+They end up designing their org for the median employee at the cost of top performers and the company's overall performance. In contrast, we are building Magic Safari for top performers.
+
+People in creative roles like engineering or marketing differ across both productivity and ingenuity. Across these dimensions, there are people who are 10Xers.
+
+The best people can also do things that other people will never be able to do. Five average designers simply could not have designed the iPhone, regardless of how much time they had.
+Performance is contagious
+
+Most people imagine team performance as the sum of everyone's contribution, but it's more accurate to view it as multiplicative:
+
+1 🤠 X 1.3 🥸 X 2.1 🤓 X 0.4 🧔‍♂️ X 5.2 👩 = 5.7
+
+Poor performers don't merely have a minimal contribution, they actually drag the entire team down. They poison the well for everyone.
+
+Conversely, high performers don't merely have significant individual contribution, they increase everyone else's performance too. They show everyone else what's possible.
+
+This gets worse with AI. Making things used to cost more than reviewing them, and that has inverted - a person can now generate more work in an hour than a colleague can review in a day. A weak hire with AI isn't slightly unproductive, they're an internal DDOS attack. We don't want our best engineers spending their week reviewing other people's slop.
+
+Chart of cost over time: the cost of making stuff falls from well above to well below the flat cost of reviewing stuff
+Intentionally small
+
+"My first piece of advice about hiring is don't do it. Employees are expensive, and add organizational complexity and communication overhead. Employees add inertia— it gets exponentially harder to change direction with more people on the team. Resist the urge to derive your self-worth from your number of employees." - Sam Altman
+
+Keeping the team small has many benefits:
+
+    It forces you to focus on the work that matters
+    Avoids the massive opportunity cost of hiring
+    Faster decisions, fewer meetings, more fun
+    No room for mediocre people
+    You can pay the team better
+    Everybody knows what everyone else is working on
+    Everyone is growing without even trying
+
+Meritocracy
+
+Magic Safari is a meritocracy, and we will always remain one. We hire only the best person for the job, and we seek out and demand excellence.
+
+We treat everyone as an individual. We do not unfairly stereotype, tokenize, or otherwise treat anyone as a member of a demographic group rather than as an individual. We believe that people should be judged by the content of their character, their talent, skills, and work ethic.
+
+No group has a monopoly on excellence. A hiring process based on merit will naturally yield a variety of backgrounds, perspectives, and ideas.
+What types of people fit into our team
+
+    Hungry - Has something to prove and are willing work incredibly hard to do so
+    Get shit done - Able to crank out a large amount of great work
+    Optimistic - Energized by near impossible odds and get back up after setbacks
+    High standards - Aims to be world-class at what they do and finds mediocrity offensive
+    Relentlessly resourceful - Finds a way to achieve things against all odds
+
+Who doesn't fit
+
+    Lack burning hunger
+    Arrogance that dampens curiosity
+    Unwillingness to risk looking stupid
+    Can't manage their own wellbeing
+    Wants to do "strategy"
+    Uncomfortable with risk or rapid change
+    Needs to be managed
+    Wants to mainly manage others
+    Prefers the comfort of a 9-5 job
+
+How we prioritize
+
+We optimize for speed. We're going to make mistakes. We'd rather make them fast and adapt.
+Find the bottleneck, kill the snake
+
+What is the limiting factor? What's stopping us from getting closer to our current goal? That's the question we keep coming back to.
+
+For most things, especially with AI, the best way of figuring out what to do is to just do something. You learn by doing. If the debate is taking longer than the work, just go do the work.
+Test it, don't theorize about it
+
+Most questions are now cheaper to answer than to debate. You can have a working prototype in the time it used to take to write the plan for one. Build the ugly version, see what breaks, go from there.
+
+Leave the documentation to Claude. Spend your own time proving the assumption everything else depends on.
+
+The default expectation: by the time you'd normally send someone a plan, v0.1 should already be running and shared for them to poke at.
+
+Fast prototyping is how you find out what's true. It isn't a substitute for understanding what you're building.
+Build the factory, not the car
+
+It has never been easier to clone a product, a dataset, or a feature. Instead of focusing on the output only, you want to spend effort on the machine that produces the output.
+
+In practice that means fixing the pipeline instead of fixing the data or building the thing that generates the report instead of writing the report.
+
+This isn't absolute. Sometimes you build the car by hand to learn what the factory needs to do.
+Avoid good opportunities
+
+Scatter plot of opportunity value against when the opportunity presents itself: many bad and good opportunities, a few great ones circled with the note 'Spend all your time on these'
+
+The more successful we get, the more good opportunities will come our way. The safari industry has been underserved for decades, so there's no shortage of real problems we could solve.
+
+Good opportunities are abundant, and they're the main thing standing between you and a great one. The skill is telling them apart, and then declining most of what's in front of you.
+How decisions get made
+
+Everyone on the team speaks to customers. That's where we get most of our signal on what matters.
+
+People own areas of the product and make the day to day calls themselves. On a higher level, we agree on priorities through debate. If we can't decide, Philip decides. But that's rare.
+
+We set aggressive deadlines, usually one to two months out. We don't plan past that because most longer term planning becomes fake work. We have a long term vision, but actual prioritization stays short term.
+
+
+AI & automation
+
+Traditional safari companies have a lot of manual work. Slow processes, repetitive tasks, things that have always been done by people because there was no alternative. We look at every one of those from first principles and ask what unique value a human adds that AI cannot. This is perhaps where we as industry outsiders have an advantage. Yes, we are naive, but sometimes the stupid questions lead to valuable answers.
+More than cost reduction
+
+A lot of companies think of AI as a way of replacing humans to save money. Cost reduction is great, and as an infrastructure company, every cent matters. But there's more to it.
+
+Fewer people means fewer meetings, less coordination, and less time hiring. This lets us spend more time solving customer problems.
+You own what goes out under your name
+
+Whatever you ship, send, or publish is yours, whoever or whatever drafted it. If there's code, a human is responsible for it, regardless of whether they produced it by hand or with AI. Same for an email, a spec, or a number in a spreadsheet.
+
+The test isn't whether you typed it. It's whether you understand it, can explain the decisions in it without asking AI, and will maintain it when it breaks.
+
+And answer for yourself. When someone asks about your work, they're asking you, not your model.
+No meat proxies
+
+We don't pay humans for what AI can do. That's the test for every process and every role: if a machine can do it, a person shouldn't be. What's left is the work that needs judgment, taste, relationships, and accountability. Fewer people doing higher-leverage work is also why the entire team shares in the profit.
+
+A meat proxy is what happens when someone gets that backwards. They forward AI output without reading, understanding, or checking it. They're a relay between the model and the recipient, and they add nothing the model didn't already produce.
+
+    A meat proxy doesn't review code when asked. They ask AI to review it.
+    A meat proxy can't explain their own code. They have to ask AI what it does.
+    A meat proxy defers every judgment call to the model.
+
+Use AI for everything. Just don't outsource your judgment along with the work.
+Manage your agents
+
+If you're a software engineer, you're now managing teams of AI agents doing the work you used to do yourself. You've basically become the boss of a team of your former self.
+
+Chart of individual leverage rising exponentially over time
+
+Treat an agent the way you'd treat someone good who works for you. You extend real trust, because otherwise nothing gets done. You also verify, because you're the one accountable for the result.
+
+Verifying means getting to ground truth yourself. Not asking Claude whether Claude was right. Models hallucinate, read stale values, and will confidently confirm their own work. Go look at the actual data, the actual log, the actual response from the actual system.
+
+Be paranoid, and make your agents paranoid for you. When something looks odd, it is odd. Smoke means fire. Chase it down before you build anything on top of it.
+
+You can't go deep on everything, so be deliberate. Go deep where being wrong is expensive or hard to undo.
+Understand before you accelerate
+
+Prototyping fast is how you learn. It isn't the same as understanding. Before you commit to the shape of a new system, work the underlying concepts out from first principles. Use agents to explore and to kill assumptions, but the model of how the thing actually works has to end up in your head.
+
+Cargo cults form fast now. It has never been easier to copy a pattern that works without knowing why, and to be helpless the moment it stops working.
+
+Full speed in the wrong direction is worse than a slow start. Get clear, then go as fast as you can.
+
+Our tech stack
+
+We use TypeScript and Python for almost everything. Our stack is built on Next.js, FastAPI, React, Sanity CMS, and TailwindCSS. We tend to use a lot of Cloudflare services but also use DigitalOcean in some places.
+Simple over clever
+
+We want to avoid tech wankery and focus on shipping value to customers. So we pick boring technology where we can.
+
+Fancy tools with "magic" in them let you move fast at the start. The cost shows up later, when something breaks and you don't understand the layer underneath well enough to debug it. You end up guessing, or waiting for someone else to explain your own system to you. We'd rather do the dumb, simple thing we understand completely.
+
+We also avoid premature optimization. Maybe at some point we'll rebuild the backend in Rust. Right now we're optimizing for speed of shipping, and most of the performance work people want to do is solving a problem we don't have yet.
+
+
+
+
+

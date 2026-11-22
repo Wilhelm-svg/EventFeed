@@ -1,0 +1,50 @@
+
+I analysed some of the universe to get a better look
+
+Total Properties Audited (526)
+Park & Conservation Fees (~3,890+ Records)
+Extracted Lodge Rates (28 Detailed Records)
+Aviation & Airstrip Nodes (400+ Nodes)
+Competitor Pricing & Policy Benchmarks (13 Rules)
+API Integration Mapping (50 Records)
+
+have some interesting thoughts....
+
+The market is fragmented but review-concentrated. A small number of operators have most of the social proof. Huge chunk of lodges have broken/non-existent websites or are unreachable. Improving how we gather the data will definitely raise that number but there definitely is a large part of the market which does not have a website. Its over estimated in my samples because some websites have cloudflare or bot checks etc.
+
+Our edge here will be in data completeness. We can easily integrate with a large part of the industry through api's and paid services already. That will be an easy first step. We can integrate to catch easily 1,500 to 2,000 properties etc.
+
+Critical Discovery:
+Peak season lodges: Book 12-18 months in advance
+Standard luxury: 6-12 months ahead
+Flexible/budget: 3-6 months possible
+Problem: Small luxury lodges (6-10 rooms) = sold out 12-18 months ahead
+
+Critical Discovery:
+Lodges inflate rack rates to support commission structure
+Net rates = the REAL pricing tier
+Magic Safari needs NET rate access to compete
+
+Pain point: Hidden costs are everywhere. A $300/night lodge might have $150/day in park fees on top.
+
+Critical Discovery:
+African residents pay 50-70% LESS than international visitors
+Examples:
+Botswana park fees: P270 (foreign) vs much lower (resident)
+Tanzania: $82/day (non-resident) vs ~$30 (resident)
+
+THE QUOTE KILLER:
+An operator building a 10-day, 3-lodge safari needs to calculate:
+International flights: Client → Africa gateway (Johannesburg, Nairobi, etc.)
+Domestic flights: Gateway → first safari destination
+Charter/scheduled flights: Between safari camps
+Which airstrip is closest to each lodge?
+Are there scheduled flights or charter-only?
+What's the luggage limit? (15-20kg for bush planes)
+What's the cost per person?
+Is it even possible (weather, runway condition, etc.)?
+Ground transfers: Airstrip → lodge (could be 1-3 hours by 4x4)
+Road vs air decision: Sometimes driving is better/cheaper/more scenic
+Timing: Does the routing actually work with flight schedules?
+
+So seems the flights and travel are the real problem...along with the pricing. 

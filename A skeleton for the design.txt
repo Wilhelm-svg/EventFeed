@@ -1,0 +1,8 @@
+A skeleton for the design
+
+1. The data model, the interface, and what the agent does.
+2. Three to five principles: each a rule, and what you accept by choosing it.
+3. Open decisions: the question, your recommendation, and one example worked under both answers.
+4. How it is checked: a few cases worked by hand, with the expected result.
+5. Execution plan: build steps, sized by risk and impact.
+

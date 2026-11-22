@@ -1,0 +1,5 @@
+1. Prioritize root cause analysis and fixing the root cause of a problem.
+2. Break large task up into smaller bits which we can easily accomplish, test and then learn from.
+3. Adhere to industry standards when it comes to security, scalability and reliability. 
+4. If a whole bunch of similar tasks are going to be repeated, make a playbook to learn and make future tasks easier. 
+5. Adhere to Andrej Karpathy methodologies and principles.

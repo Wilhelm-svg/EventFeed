@@ -1,0 +1,65 @@
+
+Analysed more of the universe today:
+
+1,874 African airstrips
+Flight routes from 6 operators
+Car rental companies (4)
+Transfer services (2)
+Popular route drive times (7)
+Border crossings (4)
+526 lodges audited
+150 lodges with rates checked
+19 lodges with pricing
+3 lodges with booking policies
+Migration timing
+Weather patterns for 12 destinations
+Wildlife viewing calendar (30 records)
+27 lodges with activity menus
+Specialized operators identified
+
+Had this thought....
+
+THE REAL PROBLEM: Multi-Modal Journey Planning with Time Windows
+safari routing problem is a specific instance of:
+
+Multi-Modal Transportation Network Design with Time-Dependent Costs and Capacity Constraints
+
+This brings me to the final structure of what I think the plan should look like:
+
+Data Harvesting Engine
+Objective: Build the most comprehensive, accurate and up-to-date database of the African safari travel ecosystem.
+-connect with third party integrations and API's to capture 20-30% of dataset.
+-Employ mass scraping to get the rest
+-Going to need have an ever growing "playbook" so that the harvesting engine will find future harvesting easier
+-Need to keep data and rates up to date
+-So we need to integrate as much as we can then scrape the rest.
+
+Client Requirements & Intake Platform
+Objective: Understand exactly what the traveller wants and translate their requirements
+-let travel agents fill this in via Magic Safari portal, email or WhatsApp.
+-Maybe we should also let the actual travelers fill this in? find their own itineraries? Dual market with capturing travelers and travel agents?
+
+Itinerary Building & Destination Matching Engine
+Objective: Identify the best combination of destinations, accommodation, activities and experiences to satisfy the client's requirements.
+-understand the client/travelers requirements
+-source locations and activities that match client needs
+-string them together and connect the dots. Multiple locations, activities etc.
+
+Transport Feasibility & Travel Logistics Engine
+Objective: Determine whether each proposed itinerary can actually be travelled, and identify the best way(s) to connect every destination.
+-we have the information we need, time to string together the travel
+-flights, drives, times, visas, requirements, availability etc.
+-make sure we have itineraries and matching travel plans that WORK TOGETHER.
+ 
+Itinerary Evaluation, Ranking & Recommendation Engine
+Objective: Evaluate all viable itinerary and transport combinations and present the client with the best three or four options.
+-once we have established several itineraries and travel plans, we can rank them, and present the top 3/4/5.
+-the client/traveler can then pick what combo of itinerary and travel they want.
+
+Booking & Supplier Orchestration Engine
+Objective: Convert a selected itinerary into actual reservations, confirmed services and a complete travel booking.
+-once a client/traveler has picked an itinerary and their travel plan, transform into actual reservations and book.
+
+Simple right we just have to do this across multiple borders, across multiple jurisdictions, across multiple traveller profiles and nationalities haha. (joke)
+
+Anyways, I imagine this is probably very similar to the roadmap the Magic Safari team has already been working towards. But I think that's the interesting part: having spent the last few days digging into the industry, I've independently arrived at much the same overall structure and way of thinking about the problem.
