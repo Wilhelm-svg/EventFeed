@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Southern Right Whale Season",
+    "description": "Southern right whales come into Walker Bay to mate and calve and can often be watched from the Hermanus cliff paths, close to shore. Humpback and Bryde's whales are also sometimes seen. Licensed boat operators run whale-watching trips during the season.",
+    "location": { "town": "Hermanus", "region": "Western Cape", "country": "South Africa", "venue": "Walker Bay and the Hermanus cliff paths" },
+    "temporal": { "type": "seasonal", "startMonth": 6, "endMonth": 11, "peakMonths": [9, 10] },
+    "datesConfirmed": true,
+    "categories": ["wildlife", "nature", "outdoors"],
+    "booking": {
+      "required": false,
+      "advice": "Watching from the cliff paths needs no booking. Boat-based whale watching is run by licensed operators and is booked with them directly."
+    },
+    "whatToExpect": "Whales are commonly seen in this period, but sightings on any given day are not guaranteed. They are wild animals and their movements depend on conditions. Sources differ on when the season ends: one says late November, the Hermanus tourism site says December.",
+    "source": { "url": "https://hermanus-tourism.co.za/things-to-do/whale-watching/", "checkedOn": "2026-11-22" }
+  },
+  {
+    "name": "Hermanus Whale Festival",
+    "description": "Annual eco-arts festival celebrating the return of the southern right whales, with arts and crafts markets, music stages, a kids' arena, marine eco-marquees, food stalls and theatre. The organiser site reports over 150,000 visitors.",
+    "location": { "town": "Hermanus", "region": "Western Cape", "country": "South Africa" },
+    "temporal": {
+      "type": "recurring",
+      "frequency": "annual",
+      "months": [9, 10],
+      "typicalDates": "Held every year in late September or early October. The 2026 festival ran 2 to 4 October 2026. Dates for 2027 have not been announced."
+    },
+    "datesConfirmed": false,
+    "categories": ["festival", "family-friendly", "music", "arts", "culinary"],
+    "booking": {},
+    "source": { "url": "https://www.whalehermanus.com/", "checkedOn": "2026-11-22" }
+  },
+  {
+    "name": "Hermanus FynArts Festival 2027",
+    "description": "Ten-day arts festival with music, art exhibitions, performance, literature and food, held every winter since 2013.",
+    "location": { "town": "Hermanus", "region": "Western Cape", "country": "South Africa" },
+    "temporal": { "type": "dated", "startDate": "2027-06-24", "endDate": "2027-07-04" },
+    "datesConfirmed": true,
+    "categories": ["festival", "arts", "music", "cultural", "culinary"],
+    "booking": {},
+    "source": { "url": "https://www.hermanusfynarts.co.za/", "checkedOn": "2026-11-22" }
+  },
+  {
+    "name": "Hermanus Country Market",
+    "description": "Weekly open-air market with more than 60 local traders selling fresh produce, artisan food, crafts and gifts. It has live music, a kids' corner and a jungle gym, and pets are welcome. Running since 2007. In December and January there are also Summer Night Markets on Wednesdays from 17:00 to 21:00.",
+    "location": {
+      "town": "Hermanus",
+      "region": "Western Cape",
+      "country": "South Africa",
+      "venue": "Hermanus Cricket Club",
+      "address": "Corner of Fairways Avenue and Jose Burman Drive, Hermanus"
+    },
+    "temporal": { "type": "recurring", "frequency": "weekly", "daysOfWeek": ["saturday"], "startTime": "09:00", "endTime": "14:00" },
+    "datesConfirmed": true,
+    "categories": ["market", "family-friendly", "pet-friendly", "culinary", "music"],
+    "booking": {
+      "required": false,
+      "advice": "Open market, no tickets listed. Open year round. Parking is on site."
+    },
+    "source": { "url": "https://hermanuscountrymarket.co.za/", "checkedOn": "2026-11-22" }
+  },
+  {
+    "name": "FynArts Old Harbour Sunset Concert",
+    "description": "A one-evening sunset concert run by Hermanus FynArts. The organiser has not yet published the performers, times or ticket details.",
+    "location": { "town": "Hermanus", "region": "Western Cape", "country": "South Africa" },
+    "temporal": { "type": "dated", "startDate": "2027-03-06" },
+    "datesConfirmed": true,
+    "categories": ["concert", "music", "arts"],
+    "booking": {},
+    "source": { "url": "https://www.hermanusfynarts.co.za/", "checkedOn": "2026-11-22" }
+  }
+]
